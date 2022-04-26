@@ -7,4 +7,10 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'angular-name-card';
+
+  cardName: string = "TOXIC";
+
+  email: string = "hoanghuutri97@gmail.com";
+
+  phone: string = "0359626826";
 }
